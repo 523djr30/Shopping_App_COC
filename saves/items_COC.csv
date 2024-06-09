@@ -1,0 +1,252 @@
+Section,Aisle,Name,Price
+Clothing,Mens Clothing,Worsted Wool Dress Suit,17.95
+Clothing,Mens Clothing,Cashmere Dress Suit,18.5
+Clothing,Mens Clothing,Suit - mohair,13.85
+Clothing,Mens Clothing,Corduroy Norfolk Suit,9.95
+Clothing,Mens Clothing,Union suit - Forest Mills,0.69
+Clothing,Mens Clothing,Outdoor Coat MIN,9.95
+Clothing,Mens Clothing,Outdoor Coat MAX,35
+Clothing,Mens Clothing,Dog Fur Overcoat,37.5
+Clothing,Mens Clothing,Chesterfield Overcoat,19.95
+Clothing,Mens Clothing,Oxford Dress Shoes,6.95
+Clothing,Mens Clothing,Leather Work Shoes,4.95
+Clothing,Mens Clothing,Slacks -  white flannel,8
+Clothing,Mens Clothing,Lace-bottom Breeches,4.95
+Clothing,Mens Clothing,Shirt - percale MIN,0.79
+Clothing,Mens Clothing,Shirt - percale MAX,1.25
+Clothing,Mens Clothing,Broadcloth Dress Shirt,1.95
+Clothing,Mens Clothing,Shaker Sweater,7.69
+Clothing,Mens Clothing,Felt Fedora,4.95
+Clothing,Mens Clothing,Wool Golf Cap,0.79
+Clothing,Mens Clothing,Straw Hat,1.95
+Clothing,Mens Clothing,Padded Leather Football Helmet,3.65
+Clothing,Mens Clothing,Sweatshirt,0.98
+Clothing,Mens Clothing,Sealskin Fur Cap,16.95
+Clothing,Mens Clothing,Silk Four-in-hand Tie,0.96
+Clothing,Mens Clothing,Necktie - silk,0.5
+Clothing,Mens Clothing,Batwing Bow Tie,0.55
+Clothing,Mens Clothing,Sock Garters,0.39
+Clothing,Mens Clothing,Cotton Union Suit,1.48
+Clothing,Mens Clothing,Cuff links,0.4
+Clothing,Mens Clothing,Leather Belt,1.35
+Clothing,Mens Clothing,Suspenders,0.79
+Clothing,Mens Clothing,Hiking Boots,7.25
+Clothing,Mens Clothing,Shoes with cleats,5.25
+Clothing,Mens Clothing,Bathing Suit,3.45
+Clothing,Mens Clothing,Canvas Bathing Shoes,75
+Clothing,Womens Clothing,Chic Designer Dress,90
+Clothing,Womens Clothing,Silk Crepe Dress,13.95
+Clothing,Womens Clothing,Silk Taffeta Dress,10.95
+Clothing,Womens Clothing,Satin Charmeuse,10.95
+Clothing,Womens Clothing,Gingham Dress,2.59
+Clothing,Womens Clothing,French Repp Dress,10.95
+Clothing,Womens Clothing,Pleated Skirt - silk,7.95
+Clothing,Womens Clothing,Blouse - cotton,1.98
+Clothing,Womens Clothing,Worsted Wool Sweater,9.48
+Clothing,Womens Clothing,Cotton Crepe Negligee,0.88
+Clothing,Womens Clothing,Spike-heeled Parisian Shoes,4.45
+Clothing,Womens Clothing,Leather One-strap Slippers,0.98
+Clothing,Womens Clothing,Snug Velour Hat,4.44
+Clothing,Womens Clothing,Satin Turban-style Hat,3.69
+Clothing,Womens Clothing,Rayon Elastic Corset,2.59
+Clothing,Womens Clothing,Embroidered Costume Slip,1.59
+Clothing,Womens Clothing,Silk Hose (3 pairs),2.25
+Clothing,Womens Clothing,Bloomers - silk MIN,3.98
+Clothing,Womens Clothing,Bloomers - silk MAX,4.98
+Clothing,Womens Clothing,Tweed Jacket - fully lined,3.95
+Clothing,Womens Clothing,Velour Coat with Fur Trim,39.75
+Clothing,Womens Clothing,Brown Fox Fur Coat,198
+Clothing,Womens Clothing,Belted Rain Coat - cotton,3.98
+Clothing,Womens Clothing,Belted Rain Coat - Schappe silk,8.98
+Clothing,Womens Clothing,Silk Handbag,4.98
+Clothing,Womens Clothing,Dress Hair Comb,0.98
+Clothing,Womens Clothing,OutShirt Khaki Jean Material,1.79
+Clothing,Womens Clothing,OutShirt All Wool Tweed or Linen,2.98
+Clothing,Womens Clothing,OutKnickers Khaki Jean Material,1.79
+Clothing,Womens Clothing,OutKnickers Grey Wool Tweed,2.98
+Clothing,Womens Clothing,OutKnickers White Linen,2.98
+Clothing,Womens Clothing,OutKnickers Khaki Leggings (Ankle to knee),0.98
+Clothing,Womens Clothing,Outdoor Boots,2.59
+Clothing,Womens Clothing,Bathing Suit,4.95
+Clothing,Womens Clothing,Bathing Cap,0.4
+Clothing,Womens Clothing,Canvas Bathing Shoes,0.54
+Clothing,Womens Clothing,Shoes - Pumps,1.29
+Pharmacy,Medical Equipment,Aspirin (12 pills),10
+Pharmacy,Medical Equipment,Epsom Salts(/lb),0.09
+Pharmacy,Medical Equipment,Indigestion Medicine,25
+Pharmacy,Medical Equipment,Laxative - Nature's remedy,0.25
+Pharmacy,Medical Equipment,Medical Case,10.45
+Pharmacy,Medical Equipment,Forceps,3.59
+Pharmacy,Medical Equipment,Scalpel Set,1.39
+Pharmacy,Medical Equipment,Hypodermic Syringes,12.5
+Pharmacy,Medical Equipment,Atomizer,1.39
+Pharmacy,Medical Equipment,Gauze Bandages (Five Yards),0.69
+Pharmacy,Medical Equipment,Clinical ¬ thermometer,0.69
+Pharmacy,Medical Equipment,Alcohol (Half-gallon),0.2
+Pharmacy,Medical Equipment,Hard Rubber Syringe,0.69
+Pharmacy,Medical Equipment,Bed Pan,1.79
+Pharmacy,Medical Equipment,Wheel Chair,39.95
+Pharmacy,Medical Equipment,Maple Crutches,1.59
+Pharmacy,Medical Equipment,Adhesive Plaster,0.29
+Pharmacy,Medical Equipment,Metal Arch Supports,1.98
+Pharmacy,Medical Equipment,Leather Ankle Supports (Pair),0.98
+Pharmacy,Personal Care,Make-up Kit,4.98
+Pharmacy,Personal Care,Mens Toilet Set (10 pieces),9.98
+Pharmacy,Personal Care,Womens Toilet Set (15 pieces),22.95
+Pharmacy,Personal Care,Hair Colorator,0.79
+Pharmacy,Personal Care,Curling Iron - Wavette,2.19
+Pharmacy,Personal Care,Hair Brush,0.89
+Pharmacy,Personal Care,Hair net - Zephyr (4),0.25
+Pharmacy,Personal Care,Mouthwash - Listerine,0.79
+Pharmacy,Personal Care,Shampoo - Coconut Oil,0.5
+Pharmacy,Personal Care,Soap (12 Cakes),1.39
+Pharmacy,Personal Care,Talcum powder,0.19
+Pharmacy,Personal Care,Toothpaste – Pepsodent,0.39
+Food-Drink,Food,Bacon (1 lb.),0.25
+Food-Drink,Food,Beef - Pot Roast (1 lb.),0.1
+Food-Drink,Food,Bologna (1 lb.),0.19
+Food-Drink,Food,Frankfurters (1 lb.),0.19
+Food-Drink,Food,Butter (1 lb.),0.43
+Food-Drink,Food,Carrots (bunch),0.1
+Food-Drink,Food,Cookies (1 lb.),0.25
+Food-Drink,Food,Corn,0.1
+Food-Drink,Food,Eggs (dozen),0.13
+Food-Drink,Food,Ham - smoked calf (1 lb.),0.13
+Food-Drink,Food,Lamb - Leg (1 lb.),0.4
+Food-Drink,Food,Lard (1 lb.),0.17
+Food-Drink,Food,Lettuce (1 lb.),0.1
+Food-Drink,Food,Oil - Olive - Imported (half gallon),2.25
+Food-Drink,Food,Oranges (dozen),0.5
+Food-Drink,Food,Peaches (basket),0.15
+Food-Drink,Food,Peas (2 quarts),0.25
+Food-Drink,Food,Potatoes (4 quarts),0.45
+Food-Drink,Food,Prunes - California (2 lbs.),0.24
+Food-Drink,Food,Rice (3 lbs.),0.2
+Food-Drink,Food,Tomatoes (no. 2 can),0.1
+Food-Drink,Meals Out,Chicken - Dinner,2.5
+Food-Drink,Meals Out,Breakfast,0.45
+Food-Drink,Meals Out,Lunch,0.65
+Food-Drink,Meals Out,Dinner,1.25
+Food-Drink,Alcohol,Rotgut Gin (Shot),0.1
+Food-Drink,Alcohol,Cocktail,0.25
+Food-Drink,Alcohol,Wine (Glass),0.75
+Food-Drink,Alcohol,Beer (Glass),0.2
+Food-Drink,Alcohol,Whiskey (Glass),0.25
+Food-Drink,Alcohol,Coca-Cola (12 oz.),0.05
+Gear,Outdoor&Travel,Cooking Kit,8.98
+Gear,Outdoor&Travel,Camp Stove,6.1
+Gear,Outdoor&Travel,Vacuum Bottle,0.89
+Gear,Outdoor&Travel,Folding Bathtub,6.79
+Gear,Outdoor&Travel,Waterproof Blanket (58 x 96 Inches),5.06
+Gear,Outdoor&Travel,Folding Camp Bed,3.65
+Gear,Outdoor&Travel,Carbide Lamp (300’ Beam),2.59
+Gear,Outdoor&Travel,Can of Carbide (Two Pounds),0.25
+Gear,Outdoor&Travel,Searchlight,5.95
+Gear,Outdoor&Travel,Gasoline Lantern (Built-in Pump),6.59
+Gear,Outdoor&Travel,Kerosene Lantern,1.39
+Gear,Outdoor&Travel,Dark Lantern,1.68
+Gear,Outdoor&Travel,Electric Torch MIN,1.35
+Gear,Outdoor&Travel,Electric Torch MAX,2.25
+Gear,Outdoor&Travel,Batteries,0.6
+Gear,Outdoor&Travel,Pen Light,1
+Gear,Outdoor&Travel,Flare (Disposable),0.27
+Gear,Outdoor&Travel,Telescope,3.45
+Gear,Outdoor&Travel,Field Glasses (3x+) MIN,6
+Gear,Outdoor&Travel,Field Glasses (6x) MAX,23
+Gear,Outdoor&Travel,Binoculars,28.5
+Gear,Outdoor&Travel,Jeweled Compass,3.25
+Gear,Outdoor&Travel,Compass with Lid,2.85
+Gear,Outdoor&Travel,Hunting Knife,2.35
+Gear,Outdoor&Travel,Heavy 2-Blade Pocket Knife,1.2
+Gear,Outdoor&Travel,Hand Axe,0.98
+Gear,Outdoor&Travel,Small Live Animal Coil Trap,2.48
+Gear,Outdoor&Travel,Spring Animal Trap,5.98
+Gear,Outdoor&Travel,Bear Trap,11.43
+Gear,Outdoor&Travel,Collapsible Fishing Rod and Tackle Set,9.35
+Gear,Outdoor&Travel,Hemp Twine,0.27
+Gear,Outdoor&Travel,Pedometer,1.7
+Gear,Outdoor&Travel,Heavy Canvas Shoulder Bag,3.45
+Gear,Outdoor&Travel,Fifteen Hour Candles (Dozen),0.62
+Gear,Outdoor&Travel,Waterproof Match Case,0.48
+Gear,Outdoor&Travel,Steel Row Boat (Seats 4),35.2
+Gear,Outdoor&Travel,2 HP Motor for Row Boats,79.95
+Gear,Outdoor&Travel,Canvas and Wood Canoe,75
+Gear,Luggage,Handle Bag (8 Lbs.),7.45
+Gear,Luggage,Suitcase (15 Lbs.),9.95
+Gear,Luggage,Steamer Trunk (55 Lbs.),12
+Gear,Luggage,Wardrobe Trunk (95 Lbs.),54.95
+Gear,Luggage,Wardrobe Trunk (115 Lbs.),79.95
+Gear,Luggage,Luggage -  black patent leather,12.5
+Outdoor Gear,Tents,7 x 7 foot Tent (3ppl),11.48
+Outdoor Gear,Tents,12 x 16 foot Tent (10ppl),28.15
+Outdoor Gear,Tents,16 x 24 foot Tent (16ppl),53.48
+Outdoor Gear,Tents,24 x 36 foot Tarpaulin,39.35
+Outdoor Gear,Tents,7 x 7 foot Car Tent,12.8
+Outdoor Gear,Tents,13.5 inch Iron Tent Stakes (Dozen),1.15
+Outdoor Gear,Tents,Auto Bed,8.95
+Outdoor Gear,Water Storage,Canteen (1 Quart),1.69
+Outdoor Gear,Water Storage,Insulated Tank (5 Gallons),3.98
+Outdoor Gear,Water Storage,Water Bag (1 Gallon),0.8
+Outdoor Gear,Water Storage,Water Bag (2 Gallon),1.04
+Outdoor Gear,Water Storage,Water Bag (5 Gallon),2.06
+Tools,Simple Tools,Tool Outfit (20 Tools),14.9
+Tools,Simple Tools,Hand Drill (Plus 8 Bits),6.15
+Tools,Simple Tools,Large Steel Pulley,1.75
+Tools,Simple Tools,Padlock,0.95
+Tools,Simple Tools,Rope (50 Feet),8.6
+Tools,Simple Tools,Light Chain (per Foot),0.1
+Tools,Simple Tools,Watchmakers Tool Kit,7.74
+Tools,Simple Tools,Crowbar,2.25
+Tools,Simple Tools,Handsaw,1.65
+Tools,Simple Tools,Gasoline Blowtorch,4.45
+Tools,Simple Tools,Electricians Gloves,1.98
+Tools,Simple Tools,Lineman's Tool Belt & Safety Strap,3.33
+Tools,Simple Tools,Lineman's Climbers,2.52
+Tools,Simple Tools,Jewelers 48-Piece Tool Set,15.98
+Tools,Simple Tools,Rotary Tool Grinder,6.9
+Tools,Simple Tools,Shovel,0.95
+Tools,Simple Tools,Home Tool Set in Box,14.9
+Tools,Investigator,Handcuffs,3.35
+Tools,Investigator,Extra Handcuff Key,0.28
+Tools,Investigator,Police Whistle,0.3
+Tools,Investigator,Dictaphone,39.95
+Tools,Investigator,Wire Recorder,129.95
+Tools,Investigator,Wristwatch,5.95
+Tools,Investigator,Gold Pocket Watch,35.1
+Tools,Investigator,Self-filling Fountain Pen,1.8
+Tools,Investigator,Mechanical Pencil,0.85
+Tools,Investigator,Writing Tablet,0.2
+Tools,Investigator,Straightjacket,9.5
+Tools,Investigator,Sketch Pad,0.25
+Tools,Investigator,Complete Diving Suit,1200
+Tools,Investigator,Remington Typewriter,40
+Tools,Investigator,Harris Typewriter,66.75
+Tools,Investigator,Pocket Microscope,0.58
+Tools,Investigator,110x Desk Microscope,17.5
+Tools,Investigator,Floor Safe (3-Foot high- 950 Lbs.),62.5
+Tools,Investigator,Umbrella,1.79
+Tools,Investigator,Turkish Water Pipe,0.99
+Tools,Investigator,Cigarettes (per Pack),0.1
+Tools,Investigator,Box of Cigars,2.29
+Tools,Investigator,Unabridged Dictionary,6.75
+Tools,Investigator,10-volume Encyclopedia,49
+Tools,Investigator,Wet Sponge Respirator,1.95
+Tools,Investigator,3-Lens Pocket Magnifying Glass (7x to 30x),1.68
+Tools,Investigator,Bible,3.98
+Tools,Investigator,Briefcase,1.48
+Tools,Investigator,Globe on Stand,9.95
+Tools,Investigator,Folding Writing Desk,16.65
+Tools,Investigator,Glass-Door Oak Bookcase (200 Book),24.65
+Tools,Investigator,Baby Buggy,34.45
+Tools,Investigator,Chemical Fire Extinguisher,13.85
+Tools,Investigator,Watchmaker's Eye Glass,0.45
+Automobile,Accessories,Tire,10.95
+Automobile,Accessories,Tire Repair Kit,0.32
+Automobile,Accessories,Tire Snow Chains,4.95
+Automobile,Accessories,Jack,1
+Automobile,Accessories,Auto Battery,14.15
+Automobile,Accessories,Radiator,8.69
+Automobile,Accessories,Replacement Headlamp,0.3
+Automobile,Accessories,Portable Air Pump,3.25
+Automobile,Accessories,Auto Spot Light,2.95
+Automobile,Accessories,Auto Luggage Carrier,1.35
